@@ -1,0 +1,3 @@
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/bin/Release/Mono_Mouse_Assistant.exe
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Release/Mono_Mouse_Assistant.csproj.CoreCompileInputs.cache
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Release/Mono_Mouse_Assistant.exe

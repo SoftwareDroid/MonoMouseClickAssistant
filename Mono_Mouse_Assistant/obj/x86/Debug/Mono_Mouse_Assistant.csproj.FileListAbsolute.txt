@@ -1,0 +1,6 @@
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/bin/Debug/Mono_Mouse_Assistant.exe
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/bin/Debug/Mono_Mouse_Assistant.pdb
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Debug/Mono_Mouse_Assistant.csprojAssemblyReference.cache
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Debug/Mono_Mouse_Assistant.csproj.CoreCompileInputs.cache
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Debug/Mono_Mouse_Assistant.exe
+/home/patrick/projects/mono/Mono_Mouse_Assistant/Mono_Mouse_Assistant/obj/x86/Debug/Mono_Mouse_Assistant.pdb
